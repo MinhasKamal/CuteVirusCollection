@@ -1,6 +1,6 @@
 /**
  * Developer: Minhas Kamal
- * Functionality: Simply shuts down the system.
+ * Functionality: Simply shuts the system down.
 **/
 
 #include <stdlib.h>
