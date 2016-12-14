@@ -1,7 +1,6 @@
 // Source: https://www.quora.com/What-is-your-smallest-piece-of-code-that-can-crash-the-computer/answer/George-Gonzalez-5?srid=u2HNX
-// Usees up all of RAM.
+// Usees up all space of RAM.
 
-int main(){
+main(){
     while(malloc(1000));
-    return 0;
 }
