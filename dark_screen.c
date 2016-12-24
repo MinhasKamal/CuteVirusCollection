@@ -1,5 +1,4 @@
-// Developer: Minhas Kamal
-// Functionality: Simply shuts the system down.
+// Simply shuts the system down.
 
 #include <stdlib.h>
 
