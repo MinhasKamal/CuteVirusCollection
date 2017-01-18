@@ -4,29 +4,24 @@
 #include <math.h>
 
 DWORD WINAPI moveit(){
-    int i,j,k;
-    HWND a = GetForegroundWindow();
-    for(k=0;;k++){
-        i=400+150*cos(k);
-        j=200+150*sin(k);
+    HWND a=GetForegroundWindow();
+    int i,j,k=1;
+    while(k++){
+        i=200+300*cos(k);
+        j=150+300*sin(k);
         MoveWindow(a,i,j,i,j,1);
-        Sleep(40);
+        Sleep(50);
     }
 }
 
 main(){
     DWORD dwThreadId;
-    HWND tmp = GetForegroundWindow();
-    HWND last = tmp;
-
-    ShowWindow(tmp, SW_HIDE);
-    Sleep(1000);
-
+    HWND last=GetForegroundWindow();
+    ShowWindow(last, SW_HIDE);
     while(1){
-        tmp = GetForegroundWindow();
-        if(tmp != last){
-            CreateThread(NULL, 0, moveit, &tmp, 0, &dwThreadId);
-            last = tmp;
+        if(last!=GetForegroundWindow()){
+            last=GetForegroundWindow();
+            CreateThread(NULL, 0, moveit, &last, 0, &dwThreadId);
         }
     }
 }
