@@ -34,5 +34,9 @@ Code | Intro
 
 You can stop them by pressing *Ctrl+Alt+Del* or kill the process with task manager. For testing, you may also use online compilers, like- [TutorialsPoint-CodingGround](https://www.tutorialspoint.com/codingground.htm) or [repl.it](https://repl.it/languages).
 
+## Resources
+- [Smallest piece of code that can crash the computer](https://www.quora.com/What-is-your-smallest-piece-of-code-that-can-crash-the-computer).
+- [Crash my computer](https://www.quora.com/How-do-I-crash-my-computer).
+
 ## License
 [MIT License](https://opensource.org/licenses/MIT).
