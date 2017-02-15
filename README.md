@@ -3,6 +3,8 @@
 
 They will instantly snatch control from you. Then will sicken your high-end PC by overflowing the RAM & overwhelming the processor. And you will see your computer groaning till it crashes. Believe me, viruses were never so lovely before.
 
+Computer is a very complex machine. You just have to break one support to crash the whole structure. It can be done in many ways- overloading the processor, overflowing the RAM, flooding the hard-disk, occupying input/output system or any other resource, and erasing essential software (like- operating system). Follow the [Cute Rank](#cute-rank) for getting a categorical view of the project. Programs are categorized according to their danger level.
+
 ## Cute Rank
 
 ### Level-1: Banana
