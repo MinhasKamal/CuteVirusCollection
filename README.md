@@ -21,7 +21,7 @@ Code | Intro
 [browser_breaker.html](https://github.com/MinhasKamal/CuteVirusCollection/blob/master/browser_breaker.html) | The site contains JS code which generates an infinite string of characters that overwhelms the memory. 
 [cmd_blast.c](https://github.com/MinhasKamal/CuteVirusCollection/blob/master/cmd_blast.c) | Opens an infinite number of command prompt window till the system crushes.
 [unclosable.html](https://github.com/MinhasKamal/CuteVirusCollection/blob/master/unclosable.html) | Opens lots of windows in the browser and crushes the PC.
-[serious_punch.c](https://github.com/MinhasKamal/CuteVirusCollection/blob/master/serious_punch.c) | A fork-bomb that creates lots of child process till the computer gives up.
+[consecutive_normal_punch.c](https://github.com/MinhasKamal/CuteVirusCollection/blob/master/consecutive_normal_punch.c) | A fork-bomb that creates lots of child process till the computer gives up.
 [fork_bomb.sh](https://github.com/MinhasKamal/CuteVirusCollection/blob/master/fork_bomb.sh) | Creates an infinite number of processes.
 [ram_slayer.c](https://github.com/MinhasKamal/CuteVirusCollection/blob/master/ram_slayer.c) | Consumes full space of the RAM.
 
