@@ -1,7 +1,7 @@
 # CuteVirusCollection
 #### A Collection of Cute But Deadly Viruses
 
-They will instantly snatch control from you. Then will sicken your high-end PC by overflowing the RAM & overwhelming the processor. And you will see your computer groaning till it crashes. Believe me, viruses were never so lovely before.
+**They will instantly snatch control from you. Then will sicken your high-end PC by overflowing the RAM & overwhelming the processor. And you will see your computer groaning till it crashes. Believe me, viruses were never so lovely before.**
 
 Computer is a very complex machine. You just have to break one support to crash the whole structure. It can be done in many ways- overloading the processor, overflowing the RAM, flooding the hard-disk, occupying input/output system or any other resource, and erasing essential software (like- operating system). Follow the [Cute Rank](#cute-rank) for getting a categorical view of the project. Programs are categorized according to their danger level.
 
@@ -29,6 +29,7 @@ Code | Intro
 Code | Intro
 --- | --- 
 [cpu_eater.bat](https://github.com/MinhasKamal/CuteVirusCollection/blob/master/cpu_eater.bat) | This batch program recursively executes itself forever and takes up full CPU usage.
+[zip_bomb_42.zip](https://github.com/MinhasKamal/CuteVirusCollection/blob/master/zip_bomb_42.zip) | 4.5 petabytes of data compressed into 42 kilobytes. Trying to uncompress may prove fatal.
 [folder_flooder.bat](https://github.com/MinhasKamal/CuteVirusCollection/blob/master/folder_flooder.bat) | Creates a lot of folders on the disk.
 
 
