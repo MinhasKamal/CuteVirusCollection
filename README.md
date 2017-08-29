@@ -3,18 +3,18 @@
 
 **They will instantly snatch control from you. Then will sicken your high-end PC by overflowing the RAM & overwhelming the processor. And you will see your computer groaning till it crashes. Believe me, viruses were never so lovely before.**
 
-Computer is a very complex machine. You just have to break one support to crash the whole structure. It can be done in many ways- overloading the processor, overflowing the RAM, flooding the hard-disk, occupying input/output system or any other resource, and erasing essential software (like- operating system). Follow the [Cute Rank](#cute-rank) for getting a categorical view of the project. Programs are categorized according to their danger level.
+Computer is a very complex machine. You just have to break one support to crash the whole structure. It can be done in many ways- overloading the processor, overflowing the RAM, flooding the hard-disk, occupying input/output system or any other resource, and erasing essential software (like- operating system). Follow the [Disaster Level](#disaster-level) for getting a categorical view of the project.
 
-## Cute Rank
+## Disaster Level
 
-### Level-1: Banana
+### Level-1: Wolf
 Code | Intro
 --- | --- 
 [out_of_control.java](https://github.com/MinhasKamal/CuteVirusCollection/blob/master/out_of_control.java) | Randomly moves the mouse pointer, & clicks different places on the screen.
 [chaos_devil.c](https://github.com/MinhasKamal/CuteVirusCollection/blob/master/chaos_devil.c) | Randomly moves the window round. Only Ctrl+Alt+Del will work here.
 [dark_screen.c](https://github.com/MinhasKamal/CuteVirusCollection/blob/master/dark_screen.c) | Simply shuts the system down.
 
-### Level-2: Orange
+### Level-2: Tiger
 Code | Intro
 --- | --- 
 [memory_crash.html](https://github.com/MinhasKamal/CuteVirusCollection/blob/master/memory_crash.html) | Creates a super big string and overwhelms the RAM.
@@ -25,7 +25,7 @@ Code | Intro
 [fork_bomb.sh](https://github.com/MinhasKamal/CuteVirusCollection/blob/master/fork_bomb.sh) | Creates an infinite number of processes.
 [ram_slayer.c](https://github.com/MinhasKamal/CuteVirusCollection/blob/master/ram_slayer.c) | Consumes full space of the RAM.
 
-### Level-3: Strawberry
+### Level-3: Demon
 Code | Intro
 --- | --- 
 [cpu_eater.bat](https://github.com/MinhasKamal/CuteVirusCollection/blob/master/cpu_eater.bat) | This batch program recursively executes itself forever and takes up full CPU usage.
@@ -36,10 +36,3 @@ Code | Intro
 **Note**: I have personally tested all of the programs on my laptop; no permanent damage was caused by any of them. But I cannot guarantee your safety. So **run them on your own risk**. 
 
 You can stop them by pressing *Ctrl+Alt+Del* or kill the process with task manager. For testing, you may also use online compilers, like- [TutorialsPoint-CodingGround](https://www.tutorialspoint.com/codingground.htm) or [repl.it](https://repl.it/languages).
-
-## Resources
-- [Smallest piece of code that can crash the computer](https://www.quora.com/What-is-your-smallest-piece-of-code-that-can-crash-the-computer).
-- [Crash my computer](https://www.quora.com/How-do-I-crash-my-computer).
-
-## License
-[MIT License](https://opensource.org/licenses/MIT).
