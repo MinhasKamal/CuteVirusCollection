@@ -10,6 +10,7 @@ Computer is a very complex machine. You just have to break one support to crash 
 ### Level-1: Wolf
 Code | Intro
 --- | --- 
+[prank_master.vbs](https://github.com/MinhasKamal/CuteVirusCollection/blob/master/prank_master.vbs) | Shows an unending sequence of annoying messages.
 [out_of_control.java](https://github.com/MinhasKamal/CuteVirusCollection/blob/master/out_of_control.java) | Randomly moves the mouse pointer, & clicks different places on the screen.
 [chaos_devil.c](https://github.com/MinhasKamal/CuteVirusCollection/blob/master/chaos_devil.c) | Randomly moves the window round. Only Ctrl+Alt+Del will work here.
 [dark_screen.c](https://github.com/MinhasKamal/CuteVirusCollection/blob/master/dark_screen.c) | Simply shuts the system down.
