@@ -30,7 +30,7 @@ Code | Intro
 Code | Intro
 --- | --- 
 [cpu_eater.bat](https://github.com/MinhasKamal/CuteVirusCollection/blob/master/cpu_eater.bat) | This batch program recursively executes itself forever and takes up full CPU usage.
-[zip_bomb_42.zip](https://github.com/MinhasKamal/CuteVirusCollection/blob/master/zip_bomb_42.zip) | 4.5 petabytes of data compressed into 42 kilobytes. Trying to uncompress may prove fatal.
+[zip_bomb_42.zip](https://github.com/MinhasKamal/CuteVirusCollection/blob/master/zip_bomb_42.zip) | 4.5 petabytes of data compressed into 42 kilobytes. Trying to uncompress may prove fatal. The password is 42.
 [folder_flooder.bat](https://github.com/MinhasKamal/CuteVirusCollection/blob/master/folder_flooder.bat) | Creates a lot of folders on the disk.
 
 
